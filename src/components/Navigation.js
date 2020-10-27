@@ -57,6 +57,9 @@ const Navigation = () => {
 				<li>
 					<Link to="/favourites">Favourites</Link>
 				</li>
+				<li>
+					<Link to="/new">New</Link>
+				</li>
 			</NavList>
 		</Nav>
 	);
